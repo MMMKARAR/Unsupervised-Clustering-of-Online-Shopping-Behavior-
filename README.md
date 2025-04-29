@@ -6,7 +6,8 @@ This project explores unsupervised learning techniques to identify behavioral pa
 
 ## 📁 Dataset
 
-- **Source**: [UCI Online Shoppers Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail), https://github.com/MMMKARAR/Unsupervised-Clustering-of-Online-Shopping-Behavior-/blob/main/online_shoppers_intention%20Revenue%20removed.csv
+- **Source**: [UCI Online Shoppers Intention Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail),
+- https://github.com/MMMKARAR/Unsupervised-Clustering-of-Online-Shopping-Behavior-/blob/main/online_shoppers_intention%20Revenue%20removed.csv
 - **Modifications**: Revenue column has been removed to enforce a purely unsupervised approach.
 
 ---
